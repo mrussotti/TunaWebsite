@@ -8,7 +8,11 @@ This is the repository for the TunaWebsite project.
 - npm (v7.3.0 or later)
 - Git
 
-To check your Node.js and npm versions, run `node -v` and `npm -v` in a terminal/console window. You can download Git from [here](https://git-scm.com/downloads).
+To check your Node.js and npm versions, run `node -v` and `npm -v` in a terminal/console window. 
+
+You can download Node.js from [here](https://nodejs.org/en)
+
+You can download Git from [here](https://git-scm.com/downloads).
 
 ## Installation
 
