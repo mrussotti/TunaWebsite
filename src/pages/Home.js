@@ -1,7 +1,7 @@
 import HeroSection from "../components/HeroSection"
 import Cards from "../components/Cards";
 import React, { useEffect } from 'react'
-import FeedbackForm from "../components/FeedbackForm";
+// import FeedbackForm from "../components/FeedbackForm";
 
 
 
