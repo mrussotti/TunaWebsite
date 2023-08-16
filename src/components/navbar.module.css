@@ -28,7 +28,7 @@
     font-weight: bold;
     }
     
-    .btn {
+    /* .btn {
     font-size: 17px;
     background: transparent;
     border: none;
@@ -74,7 +74,13 @@
     .btn:hover::after {
     height: 100%;
     transition-delay: 0.4s;
-    }
+    } */
+
+    .radixButton {
+        z-index: 5;
+     }
+     
+      
 
     @media screen and (max-width: 960px) {
         .nav {
